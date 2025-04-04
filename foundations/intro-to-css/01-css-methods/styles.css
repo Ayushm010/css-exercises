@@ -2,4 +2,6 @@ div{
     color: white;
     background: red;
     text-align: center;
+    font-size: larger;
+    font-weight: 1000;
 }
