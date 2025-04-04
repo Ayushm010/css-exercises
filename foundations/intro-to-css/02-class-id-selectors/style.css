@@ -1,0 +1,23 @@
+.alter-bg-color{
+    background-color: rgb(255, 192, 203);
+}
+
+.alter-font-size{
+    font-size: 24px;
+}
+
+.alter-font{
+    font-family: Verdana,"Dejavu Sans", sans-serif;
+}
+
+#id-1{
+    color: blue;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+#id-2{
+    background: rgb(95, 234, 95);
+    font-size: x-large;
+    font-weight: bold;
+}
